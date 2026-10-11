@@ -1,7 +1,9 @@
-pandas
-numpy
-matplotlib
-seaborn
-jupyter
-ipykernel
-pyarrow
+pandas==3.0.6
+numpy==2.5.3
+scikit-learn==1.9.1
+jupyter==1.1.1
+ipykernel==7.4.0
+anthropic==1.13.0
+rank-bm25==0.2.2
+sentence-transformers==6.1.0
+xlsxwriter==3.2.9
