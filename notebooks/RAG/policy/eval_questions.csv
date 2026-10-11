@@ -1,0 +1,21 @@
+qid,question,gold_ids,answerable,expected_answer
+Q01,A seller has 96% on-time delivery and an 11% adverse review rate. Which tier is the seller in?,MOP-1.2;MOP-1.3,1,"Bronze. Both thresholds must be met, so 11% ARR rules out Gold."
+Q02,How many completed orders does a seller need in the 90-day window to be given a tier?,MOP-1.1,1,At least 15. Fewer than 15 is Unrated.
+Q03,What commission rate does a Gold seller pay?,MOP-1.5,1,11% instead of the standard 14%.
+Q04,An order arrives 7 days after the estimated delivery date. What is the delay class and what does the seller owe?,MOP-2.2,1,Moderate. Freight cost is charged back to the seller.
+Q05,A standard-freight order to the Northeast arrives 6 days late. How is the delay classified?,MOP-2.4;MOP-2.2,1,"4-day grace leaves 2 days, so Minor with no seller liability."
+Q06,An Express Freight order to the Northeast arrives 3 days late. How is it classified?,MOP-8.4;MOP-2.4,1,Moderate at minimum. The regional grace does not apply to Express.
+Q07,An order worth R$ 500 is delivered 12 days late. How much platform credit does the customer get automatically?,MOP-3.2;MOP-2.2,1,Severe class: the greater of R$ 50 or 20% = R$ 100.
+Q08,"Who has to approve a compensation of R$ 1,500?",MOP-3.3,1,"Head of Marketplace Operations, and it is recorded in the Exceptions Register."
+Q09,When can a customer get a cash refund instead of platform credit?,MOP-4.1;MOP-3.1,1,"Critical delay, cancelled before carrier handoff, open Procon complaint, or closed account."
+Q10,How long does a refund take if the customer paid by Pix?,MOP-4.2,1,Within 3 business days.
+Q11,Can a seller get a negative review removed because the delay was caused by the carrier?,MOP-5.2;MOP-2.3,1,"No. If liability was waived, the review is excluded from ARR but stays visible."
+Q12,"How long does a seller have to ask for a review to be removed, and can the decision be appealed?",MOP-5.4,1,"30 days. The decision is final, no second-level appeal."
+Q13,What happens to a seller that is still in Watch tier when the Improvement Period ends?,MOP-6.2;MOP-6.1,1,"Listing Restriction: new listings blocked, placement deprioritised."
+Q14,What must the Quality Team complete before a seller can be suspended?,MOP-6.4,1,"Written notice (10 business days), review of waiver requests, fulfilment/refund plan, lead sign-off."
+Q15,How many days after delivery does a Gold seller receive payout?,MOP-7.1,1,7 days (Rapid Payout).
+Q16,Who pays the freight when a customer returns an item because of a change of mind?,MOP-8.3,1,The customer.
+Q17,How many days does a customer have to return an item after a change of mind?,,0,Not in the policy. MOP-8.3 only mentions the statutory withdrawal right.
+Q18,What refund does a customer get for a product that arrives defective?,,0,Not in this policy. MOP-3.5 sends it to the Returns Policy.
+Q19,What fee does a seller pay to join the Rapid Payout schedule?,,0,"Not in the policy. MOP-7.1 gives timing only, no fee."
+Q20,Can a customer appeal a decision on their cash refund request?,,0,Not in the policy. Appeals are only mentioned for review moderation (MOP-5.4).

@@ -1,0 +1,137 @@
+[
+  {
+    "qid":"Q01",
+    "citations_valid":true,
+    "ungrounded_numbers":[
+
+    ],
+    "verdict":"SUPPORTED",
+    "reason":"Every step follows from the tier thresholds in 1.2 and the both-thresholds rule and matching example in 1.3."
+  },
+  {
+    "qid":"Q02",
+    "citations_valid":true,
+    "ungrounded_numbers":[
+
+    ],
+    "verdict":"SUPPORTED",
+    "reason":"The answer restates the 15-order threshold and the Unrated classification for the trailing 90-day window, both of which are in the clause."
+  },
+  {
+    "qid":"Q03",
+    "citations_valid":true,
+    "ungrounded_numbers":[
+
+    ],
+    "verdict":"SUPPORTED",
+    "reason":"Clause 1.5 states that Gold sellers get a reduced commission rate of 11% against the standard 14%, which is exactly what the answer says."
+  },
+  {
+    "qid":"Q04",
+    "citations_valid":true,
+    "ungrounded_numbers":[
+
+    ],
+    "verdict":"SUPPORTED",
+    "reason":"Every claim matches the clauses: 7 days is Moderate with a freight chargeback, delay is measured against the checkout estimate, the waiver conditions and 10-day window apply, and no freight amount is stated. Omitting the 'or of the auto-cancellation date' option is not a contradiction, since auto-cancellation does not apply to a Moderate delay."
+  },
+  {
+    "qid":"Q05",
+    "citations_valid":true,
+    "ungrounded_numbers":[
+      "2"
+    ],
+    "verdict":"SUPPORTED",
+    "reason":"Grace allowance of 4 days applies to Northeast non-Express orders, 6-4=2 days falls in the Minor 1–3 day class per clause 2.2."
+  },
+  {
+    "qid":"Q06",
+    "citations_valid":true,
+    "ungrounded_numbers":[
+
+    ],
+    "verdict":"SUPPORTED",
+    "reason":"The answer correctly applies 2.4 (no grace for Express), 2.2 (3 days is Minor), and 8.4 (Express delayed beyond 2 days is at least Moderate), with the freight chargeback consequence taken from the 2.2 table."
+  },
+  {
+    "qid":"Q08",
+    "citations_valid":true,
+    "ungrounded_numbers":[
+
+    ],
+    "verdict":"SUPPORTED",
+    "reason":"The answer correctly applies both thresholds to R$ 1,500 (Head approval plus Exceptions Register entry for >R$1,000, Quality lead approval for >R$300) and accurately notes the clause is silent on whether both approvals are needed cumulatively."
+  },
+  {
+    "qid":"Q09",
+    "citations_valid":true,
+    "ungrounded_numbers":[
+
+    ],
+    "verdict":"SUPPORTED",
+    "reason":"Every claim in the answer matches clauses 3.1, 4.1 and 4.3: credit is the default, cash refunds need one of four conditions, and partial remedies must use credit."
+  },
+  {
+    "qid":"Q10",
+    "citations_valid":true,
+    "ungrounded_numbers":[
+
+    ],
+    "verdict":"SUPPORTED",
+    "reason":"Every claim matches the clauses: Pix refunds take 3 business days (4.2), the 4.1 cases are listed correctly, platform credit is the default (3.1), and the clauses give no processing time for platform credit."
+  },
+  {
+    "qid":"Q11",
+    "citations_valid":true,
+    "ungrounded_numbers":[
+
+    ],
+    "verdict":"SUPPORTED",
+    "reason":"Every claim in the answer matches clauses 5.2 and 2.3: removal is barred on those grounds, waived-liability reviews are excluded from ARR but stay visible, and the waiver request must be made within 10 calendar days."
+  },
+  {
+    "qid":"Q12",
+    "citations_valid":true,
+    "ungrounded_numbers":[
+
+    ],
+    "verdict":"SUPPORTED",
+    "reason":"The answer restates clause 5.4 accurately: requests must be raised within 30 days of the review posting, the moderation decision is final, and there is no second-level appeal."
+  },
+  {
+    "qid":"Q13",
+    "citations_valid":true,
+    "ungrounded_numbers":[
+
+    ],
+    "verdict":"SUPPORTED",
+    "reason":"The answer restates clause 6.2 (restriction after remaining in Watch tier at the end of the 30-day period from 6.1), with only a trivial paraphrase of 'remain' as 'remain active'."
+  },
+  {
+    "qid":"Q14",
+    "citations_valid":true,
+    "ungrounded_numbers":[
+
+    ],
+    "verdict":"SUPPORTED",
+    "reason":"The answer restates all four requirements from clause 6.4 accurately, including the 6.3 exception, with nothing added."
+  },
+  {
+    "qid":"Q15",
+    "citations_valid":true,
+    "ungrounded_numbers":[
+
+    ],
+    "verdict":"SUPPORTED",
+    "reason":"Clauses 7.1 and 1.5 state that Gold sellers can use Rapid Payout (7 days after confirmed delivery) and that standard payout is 30 days after confirmed delivery."
+  },
+  {
+    "qid":"Q16",
+    "citations_valid":true,
+    "ungrounded_numbers":[
+
+    ],
+    "verdict":"PARTIAL",
+    "reason":"The customer-pays claim for change-of-mind returns matches clause 8.3, but the word 'only' is not supported: the clause lists when the seller bears freight and does not say it never does so in other cases."
+  }
+]
