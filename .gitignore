@@ -3,5 +3,5 @@ __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
 problem_statement/
-data/*
+data/raw/*
 .env
